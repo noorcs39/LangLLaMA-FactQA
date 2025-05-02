@@ -1,6 +1,6 @@
 # 📊 LangLLaMA-FactQA: Financial Fact Extraction from Amazon 10-K Using RDF, SPARQL, LangChain, and LLaMA 3
 
-![Demo Screenshot](./demo_screenshot.png)
+![Demo Screenshot](./results.png)
 
 > 🔍 Extract structured financial knowledge from SEC 10-K filings using RDF graphs, query them via SPARQL, and interface naturally using LLaMA 3 LLM through LangChain—all powered by Apache Jena Fuseki.
 
