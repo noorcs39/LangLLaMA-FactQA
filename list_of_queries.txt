@@ -1,0 +1,20 @@
+What is the value of AccountsPayableCurrent?
+
+How much is AccountsReceivableNetCurrent?
+
+What is the reported value of AccruedLiabilitiesCurrent?
+
+Give me the value of SelfInsuranceReserve.
+
+What is the value of AccumulatedOtherComprehensiveIncomeLossNetOfTax?
+
+What amount is listed for EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense?
+
+What are all the reported values for AccountsReceivableNetCurrent?
+
+Show the values for AccruedLiabilitiesCurrent in the RDF data.
+
+How much did Amazon report as AccountsPayableCurrent in 2024?
+
+List the financial figures with the prefix Accounts from Amazon’s 10-K.
+

@@ -1,0 +1,6 @@
+# requirements.txt
+lxml
+rdflib
+langchain
+ollama
+requests

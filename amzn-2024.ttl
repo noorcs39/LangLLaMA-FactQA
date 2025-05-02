@@ -1,0 +1,1584 @@
+@prefix ex: <http://example.org/amzn/> .
+@prefix us-gaap: <http://fasb.org/us-gaap/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:AccountsPayableCurrent a us-gaap:AccountsPayableCurrent ;
+    ex:value 84981.0,
+        94363.0 .
+
+ex:AccountsReceivableNetCurrent a us-gaap:AccountsReceivableNetCurrent ;
+    ex:value 3.4,
+        4.3,
+        8.5,
+        11.6,
+        34.1,
+        34.3,
+        52253.0,
+        55451.0 .
+
+ex:AccruedLiabilitiesCurrent a us-gaap:AccruedLiabilitiesCurrent ;
+    ex:value 64709.0,
+        66965.0 .
+
+ex:AccumulatedOtherComprehensiveIncomeLossNetOfTax a us-gaap:AccumulatedOtherComprehensiveIncomeLossNetOfTax ;
+    ex:value 34.0,
+        3040.0 .
+
+ex:AdditionalPaidInCapital a us-gaap:AdditionalPaidInCapital ;
+    ex:value 99025.0,
+        120864.0 .
+
+ex:AdvertisingExpense a us-gaap:AdvertisingExpense ;
+    ex:value 20.3,
+        20.6,
+        21.4 .
+
+ex:AllocatedShareBasedCompensationExpense a us-gaap:AllocatedShareBasedCompensationExpense ;
+    ex:value 757.0,
+        836.0,
+        838.0,
+        1623.0,
+        1966.0,
+        2040.0,
+        2745.0,
+        2973.0,
+        3090.0,
+        3875.0,
+        4084.0,
+        4623.0,
+        10621.0,
+        12150.0,
+        13434.0,
+        19621.0,
+        22011.0,
+        24023.0 .
+
+ex:AllowanceForDoubtfulAccountsReceivableCurrent a us-gaap:AllowanceForDoubtfulAccountsReceivableCurrent ;
+    ex:value 1.4,
+        1.7,
+        2.0 .
+
+ex:AllowanceForDoubtfulAccountsReceivableWriteOffs a us-gaap:AllowanceForDoubtfulAccountsReceivableWriteOffs ;
+    ex:value 1.3,
+        1.6 .
+
+ex:AmortizationOfIntangibleAssets a us-gaap:AmortizationOfIntangibleAssets ;
+    ex:value 604.0,
+        706.0,
+        838.0 .
+
+ex:AssetImpairmentCharges a us-gaap:AssetImpairmentCharges ;
+    ex:value 1.1,
+        720.0 .
+
+ex:Assets a us-gaap:Assets ;
+    ex:value 64666.0,
+        69487.0,
+        69718.0,
+        88491.0,
+        108533.0,
+        124250.0,
+        153574.0,
+        155953.0,
+        185268.0,
+        189334.0,
+        196029.0,
+        210120.0,
+        462675.0,
+        527854.0,
+        624894.0 .
+
+ex:AssetsCurrent a us-gaap:AssetsCurrent ;
+    ex:value 172351.0,
+        190867.0 .
+
+ex:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax a us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax ;
+    ex:value 1.0,
+        2.0,
+        3.0,
+        6.0 .
+
+ex:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax a us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax ;
+    ex:value 1.0,
+        4.0,
+        18.0,
+        50.0,
+        52.0,
+        61.0,
+        91.0,
+        121.0,
+        191.0,
+        347.0 .
+
+ex:AvailableForSaleDebtSecuritiesAmortizedCostBasis a us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis ;
+    ex:value 68.0,
+        108.0,
+        177.0,
+        505.0,
+        1539.0,
+        1707.0,
+        1789.0,
+        3452.0,
+        27996.0,
+        50959.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesAfterFiveThroughTenYearsAmortizedCost a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesAfterFiveThroughTenYearsAmortizedCost ;
+    ex:value 560.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesAfterFiveThroughTenYearsFairValue a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesAfterFiveThroughTenYearsFairValue ;
+    ex:value 553.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsAmortizedCost a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsAmortizedCost ;
+    ex:value 5023.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsFairValue a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsFairValue ;
+    ex:value 4969.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesAfterTenYearsAmortizedCost a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesAfterTenYearsAmortizedCost ;
+    ex:value 829.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesAfterTenYearsFairValue a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesAfterTenYearsFairValue ;
+    ex:value 794.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesSingleMaturityDate a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesSingleMaturityDate ;
+    ex:value 84362.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesSingleMaturityDateAmortizedCostBasis a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesSingleMaturityDateAmortizedCostBasis ;
+    ex:value 84477.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearAmortizedCost a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearAmortizedCost ;
+    ex:value 78065.0 .
+
+ex:AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearFairValue a us-gaap:AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearFairValue ;
+    ex:value 78046.0 .
+
+ex:AvailableForSaleSecuritiesDebtSecurities a us-gaap:AvailableForSaleSecuritiesDebtSecurities ;
+    ex:value 67.0,
+        104.0,
+        177.0,
+        505.0,
+        1523.0,
+        1646.0,
+        1699.0,
+        3401.0,
+        27805.0,
+        50912.0 .
+
+ex:BusinessCombinationConsiderationTransferred1 a us-gaap:BusinessCombinationConsiderationTransferred1 ;
+    ex:value 3.5,
+        141.0 .
+
+ex:BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill a us-gaap:BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill ;
+    ex:value 1.3 .
+
+ex:BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedNoncurrentLiabilitiesLongTermDebt a us-gaap:BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedNoncurrentLiabilitiesLongTermDebt ;
+    ex:value 2.5 .
+
+ex:Cash a us-gaap:Cash ;
+    ex:value 11706.0,
+        17055.0 .
+
+ex:CashAndCashEquivalentsAtCarryingValue a us-gaap:CashAndCashEquivalentsAtCarryingValue ;
+    ex:value 73387.0,
+        78779.0 .
+
+ex:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents a us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents ;
+    ex:value 36477.0,
+        54253.0,
+        73890.0,
+        82312.0 .
+
+ex:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect a us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect ;
+    ex:value 8422.0,
+        17776.0,
+        19637.0 .
+
+ex:CashEquivalentsAtCarryingValue a us-gaap:CashEquivalentsAtCarryingValue ;
+    ex:value 28282.0,
+        39160.0 .
+
+ex:CommonStockCapitalSharesReservedForFutureIssuance a us-gaap:CommonStockCapitalSharesReservedForFutureIssuance ;
+    ex:value 1.5 .
+
+ex:CommonStockParOrStatedValuePerShare a us-gaap:CommonStockParOrStatedValuePerShare ;
+    ex:value 0.01 .
+
+ex:CommonStockSharesAuthorized a us-gaap:CommonStockSharesAuthorized ;
+    ex:value 100000.0 .
+
+ex:CommonStockSharesIssued a us-gaap:CommonStockSharesIssued ;
+    ex:value 10898.0,
+        11108.0 .
+
+ex:CommonStockSharesOutstanding a us-gaap:CommonStockSharesOutstanding ;
+    ex:value 10175.0,
+        10242.0,
+        10383.0,
+        10593.0 .
+
+ex:CommonStockValue a us-gaap:CommonStockValue ;
+    ex:value 109.0,
+        111.0 .
+
+ex:ComprehensiveIncomeNetOfTax a us-gaap:ComprehensiveIncomeNetOfTax ;
+    ex:value 5833.0,
+        31872.0,
+        62254.0 .
+
+ex:ContractWithCustomerLiability a us-gaap:ContractWithCustomerLiability ;
+    ex:value 5.3,
+        5.4,
+        20.9,
+        24.6 .
+
+ex:ContractWithCustomerLiabilityCurrent a us-gaap:ContractWithCustomerLiabilityCurrent ;
+    ex:value 15227.0,
+        18103.0 .
+
+ex:ContractWithCustomerLiabilityNoncurrent a us-gaap:ContractWithCustomerLiabilityNoncurrent ;
+    ex:value 5.7,
+        6.5 .
+
+ex:ContractWithCustomerLiabilityRevenueRecognized a us-gaap:ContractWithCustomerLiabilityRevenueRecognized ;
+    ex:value 14.2 .
+
+ex:ContractWithCustomerRefundLiability a us-gaap:ContractWithCustomerRefundLiability ;
+    ex:value 1.3,
+        1.4 .
+
+ex:ContractWithCustomerRightToRecoverProduct a us-gaap:ContractWithCustomerRightToRecoverProduct ;
+    ex:value 948.0,
+        992.0,
+        998.0 .
+
+ex:ContractualObligation a us-gaap:ContractualObligation ;
+    ex:value 333001.0 .
+
+ex:ContractualObligationDueAfterFifthYear a us-gaap:ContractualObligationDueAfterFifthYear ;
+    ex:value 186195.0 .
+
+ex:ContractualObligationDueInFifthYear a us-gaap:ContractualObligationDueInFifthYear ;
+    ex:value 23619.0 .
+
+ex:ContractualObligationDueInFourthYear a us-gaap:ContractualObligationDueInFourthYear ;
+    ex:value 23991.0 .
+
+ex:ContractualObligationDueInNextTwelveMonths a us-gaap:ContractualObligationDueInNextTwelveMonths ;
+    ex:value 34832.0 .
+
+ex:ContractualObligationDueInSecondYear a us-gaap:ContractualObligationDueInSecondYear ;
+    ex:value 30593.0 .
+
+ex:ContractualObligationDueInThirdYear a us-gaap:ContractualObligationDueInThirdYear ;
+    ex:value 33771.0 .
+
+ex:CostOfGoodsAndServicesSold a us-gaap:CostOfGoodsAndServicesSold ;
+    ex:value 288831.0,
+        304739.0,
+        326288.0 .
+
+ex:CostsAndExpenses a us-gaap:CostsAndExpenses ;
+    ex:value 57255.0,
+        66126.0,
+        67722.0,
+        125753.0,
+        133856.0,
+        139114.0,
+        318727.0,
+        337951.0,
+        362530.0,
+        501735.0,
+        537933.0,
+        569366.0 .
+
+ex:CurrentFederalTaxExpenseBenefit a us-gaap:CurrentFederalTaxExpenseBenefit ;
+    ex:value 2175.0,
+        8652.0,
+        9039.0 .
+
+ex:CurrentForeignTaxExpenseBenefit a us-gaap:CurrentForeignTaxExpenseBenefit ;
+    ex:value 1682.0,
+        2186.0,
+        2765.0 .
+
+ex:CurrentStateAndLocalTaxExpenseBenefit a us-gaap:CurrentStateAndLocalTaxExpenseBenefit ;
+    ex:value 1074.0,
+        2109.0,
+        2158.0 .
+
+ex:DebtInstrumentBasisSpreadOnVariableRate1 a us-gaap:DebtInstrumentBasisSpreadOnVariableRate1 ;
+    ex:value 0.45,
+        0.75,
+        1.25 .
+
+ex:DebtInstrumentCarryingAmount a us-gaap:DebtInstrumentCarryingAmount ;
+    ex:value 52623.0,
+        58314.0 .
+
+ex:DebtInstrumentCollateralAmount a us-gaap:DebtInstrumentCollateralAmount ;
+    ex:value 806.0 .
+
+ex:DebtInstrumentFaceAmount a us-gaap:DebtInstrumentFaceAmount ;
+    ex:value 6.0,
+        8.0,
+        8.3,
+        10.0,
+        12.8,
+        17.0,
+        18.5 .
+
+ex:DebtInstrumentInterestRateEffectivePercentage a us-gaap:DebtInstrumentInterestRateEffectivePercentage ;
+    ex:value 0.88,
+        1.14,
+        2.77,
+        3.02,
+        3.13,
+        3.31,
+        4.15,
+        4.33,
+        4.61,
+        4.74,
+        4.93,
+        5.12 .
+
+ex:DebtInstrumentInterestRateStatedPercentage a us-gaap:DebtInstrumentInterestRateStatedPercentage ;
+    ex:value 0.8,
+        1.0,
+        2.7,
+        3.0,
+        3.15,
+        3.25,
+        4.1,
+        4.55,
+        4.7,
+        4.8,
+        4.95,
+        5.2,
+        6.6 .
+
+ex:DebtInstrumentUnamortizedDiscountPremiumNet a us-gaap:DebtInstrumentUnamortizedDiscountPremiumNet ;
+    ex:value 360.0,
+        374.0 .
+
+ex:DebtSecuritiesAvailableForSaleRealizedGain a us-gaap:DebtSecuritiesAvailableForSaleRealizedGain ;
+    ex:value 2.0,
+        3.0,
+        43.0 .
+
+ex:DebtSecuritiesAvailableForSaleRealizedLoss a us-gaap:DebtSecuritiesAvailableForSaleRealizedLoss ;
+    ex:value 10.0,
+        67.0,
+        341.0 .
+
+ex:DeferredFederalIncomeTaxExpenseBenefit a us-gaap:DeferredFederalIncomeTaxExpenseBenefit ;
+    ex:value 4101.0,
+        5505.0,
+        6686.0 .
+
+ex:DeferredForeignIncomeTaxExpenseBenefit a us-gaap:DeferredForeignIncomeTaxExpenseBenefit ;
+    ex:value 94.0,
+        127.0,
+        160.0 .
+
+ex:DeferredIncomeTaxExpenseBenefit a us-gaap:DeferredIncomeTaxExpenseBenefit ;
+    ex:value 4648.0,
+        5876.0,
+        8148.0 .
+
+ex:DeferredStateAndLocalIncomeTaxExpenseBenefit a us-gaap:DeferredStateAndLocalIncomeTaxExpenseBenefit ;
+    ex:value 453.0,
+        498.0,
+        1302.0 .
+
+ex:DeferredTaxAssetsGross a us-gaap:DeferredTaxAssetsGross ;
+    ex:value 50599.0,
+        59938.0 .
+
+ex:DeferredTaxAssetsInProcessResearchAndDevelopment a us-gaap:DeferredTaxAssetsInProcessResearchAndDevelopment ;
+    ex:value 14800.0,
+        22701.0 .
+
+ex:DeferredTaxAssetsLiabilitiesNet a us-gaap:DeferredTaxAssetsLiabilitiesNet ;
+    ex:value 13197.0,
+        15965.0 .
+
+ex:DeferredTaxAssetsNet a us-gaap:DeferredTaxAssetsNet ;
+    ex:value 45788.0,
+        55045.0 .
+
+ex:DeferredTaxAssetsOperatingLossCarryforwardsDomestic a us-gaap:DeferredTaxAssetsOperatingLossCarryforwardsDomestic ;
+    ex:value 610.0,
+        692.0 .
+
+ex:DeferredTaxAssetsOperatingLossCarryforwardsForeign a us-gaap:DeferredTaxAssetsOperatingLossCarryforwardsForeign ;
+    ex:value 2687.0,
+        2796.0 .
+
+ex:DeferredTaxAssetsOther a us-gaap:DeferredTaxAssetsOther ;
+    ex:value 745.0,
+        1688.0 .
+
+ex:DeferredTaxAssetsPropertyPlantAndEquipment a us-gaap:DeferredTaxAssetsPropertyPlantAndEquipment ;
+    ex:value 1114.0,
+        1133.0 .
+
+ex:DeferredTaxAssetsTaxCreditCarryforwards a us-gaap:DeferredTaxAssetsTaxCreditCarryforwards ;
+    ex:value 1582.0,
+        1773.0 .
+
+ex:DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost a us-gaap:DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost ;
+    ex:value 4089.0,
+        5279.0 .
+
+ex:DeferredTaxAssetsTaxDeferredExpenseReservesAndAccruals a us-gaap:DeferredTaxAssetsTaxDeferredExpenseReservesAndAccruals ;
+    ex:value 3751.0,
+        4254.0 .
+
+ex:DeferredTaxAssetsValuationAllowance a us-gaap:DeferredTaxAssetsValuationAllowance ;
+    ex:value 4811.0,
+        4893.0 .
+
+ex:DeferredTaxLiabilitiesOther a us-gaap:DeferredTaxLiabilitiesOther ;
+    ex:value 1489.0,
+        3323.0 .
+
+ex:DeferredTaxLiabilitiesPropertyPlantAndEquipment a us-gaap:DeferredTaxLiabilitiesPropertyPlantAndEquipment ;
+    ex:value 12454.0,
+        16240.0 .
+
+ex:Depreciation a us-gaap:Depreciation ;
+    ex:value 24.9,
+        30.2,
+        32.1,
+        3483.0,
+        4016.0,
+        4462.0,
+        9876.0,
+        11565.0,
+        12531.0,
+        13320.0,
+        13678.0,
+        14285.0,
+        24924.0,
+        30225.0,
+        32067.0 .
+
+ex:DepreciationDepletionAndAmortization a us-gaap:DepreciationDepletionAndAmortization ;
+    ex:value 3.2,
+        920.0,
+        41921.0,
+        48663.0,
+        52795.0 .
+
+ex:DerivativeAssets a us-gaap:DerivativeAssets ;
+    ex:value 2.2,
+        2.7 .
+
+ex:EarningsPerShareBasic a us-gaap:EarningsPerShareBasic ;
+    ex:value 0.23,
+        0.27,
+        2.95,
+        5.66 .
+
+ex:EarningsPerShareDiluted a us-gaap:EarningsPerShareDiluted ;
+    ex:value 0.23,
+        0.27,
+        2.9,
+        5.53 .
+
+ex:EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations a us-gaap:EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations ;
+    ex:value 403.0,
+        1093.0,
+        1301.0 .
+
+ex:EffectiveIncomeTaxRateReconciliationFdiiAmount a us-gaap:EffectiveIncomeTaxRateReconciliationFdiiAmount ;
+    ex:value 1258.0,
+        1429.0,
+        2379.0 .
+
+ex:EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitAmount a us-gaap:EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitAmount ;
+    ex:value 2.8,
+        33.0,
+        519.0 .
+
+ex:EmployeeRelatedLiabilitiesCurrent a us-gaap:EmployeeRelatedLiabilitiesCurrent ;
+    ex:value 7.5,
+        7.7 .
+
+ex:EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized a us-gaap:EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized ;
+    ex:value 16.2 .
+
+ex:EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense a us-gaap:EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense ;
+    ex:value 4.3,
+        5.0,
+        5.4 .
+
+ex:EquityMethodInvestments a us-gaap:EquityMethodInvestments ;
+    ex:value 1.2,
+        614.0 .
+
+ex:EquitySecuritiesFvNi a us-gaap:EquitySecuritiesFvNi ;
+    ex:value 3318.0,
+        4658.0 .
+
+ex:EquitySecuritiesFvNiUnrealizedGainLoss a us-gaap:EquitySecuritiesFvNiUnrealizedGainLoss ;
+    ex:value 1.0,
+        1.3,
+        13.6 .
+
+ex:EquitySecuritiesWithoutReadilyDeterminableFairValueAmount a us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValueAmount ;
+    ex:value 754.0,
+        989.0 .
+
+ex:EquitySecuritiesWithoutReadilyDeterminableFairValueUpwardPriceAdjustmentAnnualAmount a us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValueUpwardPriceAdjustmentAnnualAmount ;
+    ex:value 40.0,
+        49.0,
+        76.0 .
+
+ex:FairValueAdjustmentOfWarrants a us-gaap:FairValueAdjustmentOfWarrants ;
+    ex:value 26.0,
+        192.0,
+        2132.0 .
+
+ex:FinanceLeaseInterestExpense a us-gaap:FinanceLeaseInterestExpense ;
+    ex:value 285.0,
+        304.0,
+        361.0 .
+
+ex:FinanceLeaseInterestPaymentOnLiability a us-gaap:FinanceLeaseInterestPaymentOnLiability ;
+    ex:value 287.0,
+        308.0,
+        374.0 .
+
+ex:FinanceLeaseLiability a us-gaap:FinanceLeaseLiability ;
+    ex:value 10602.0,
+        12109.0 .
+
+ex:FinanceLeaseLiabilityCurrent a us-gaap:FinanceLeaseLiabilityCurrent ;
+    ex:value 1375.0,
+        2032.0 .
+
+ex:FinanceLeaseLiabilityNoncurrent a us-gaap:FinanceLeaseLiabilityNoncurrent ;
+    ex:value 9227.0,
+        10077.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDue a us-gaap:FinanceLeaseLiabilityPaymentsDue ;
+    ex:value 12520.0,
+        14106.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDueAfterYearFive a us-gaap:FinanceLeaseLiabilityPaymentsDueAfterYearFive ;
+    ex:value 6081.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDueNextTwelveMonths a us-gaap:FinanceLeaseLiabilityPaymentsDueNextTwelveMonths ;
+    ex:value 1491.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDueYearFive a us-gaap:FinanceLeaseLiabilityPaymentsDueYearFive ;
+    ex:value 1022.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDueYearFour a us-gaap:FinanceLeaseLiabilityPaymentsDueYearFour ;
+    ex:value 1114.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDueYearThree a us-gaap:FinanceLeaseLiabilityPaymentsDueYearThree ;
+    ex:value 1317.0 .
+
+ex:FinanceLeaseLiabilityPaymentsDueYearTwo a us-gaap:FinanceLeaseLiabilityPaymentsDueYearTwo ;
+    ex:value 1495.0 .
+
+ex:FinanceLeaseLiabilityUndiscountedExcessAmount a us-gaap:FinanceLeaseLiabilityUndiscountedExcessAmount ;
+    ex:value 1918.0,
+        1997.0 .
+
+ex:FinanceLeasePrincipalPayments a us-gaap:FinanceLeasePrincipalPayments ;
+    ex:value 2043.0,
+        4384.0,
+        7941.0 .
+
+ex:FinanceLeaseRightOfUseAssetAccumulatedAmortization a us-gaap:FinanceLeaseRightOfUseAssetAccumulatedAmortization ;
+    ex:value 41.8,
+        44.7 .
+
+ex:FinanceLeaseRightOfUseAssetAmortization a us-gaap:FinanceLeaseRightOfUseAssetAmortization ;
+    ex:value 3.9,
+        5.9,
+        6.1,
+        3866.0,
+        5899.0,
+        6097.0 .
+
+ex:FinanceLeaseRightOfUseAssetBeforeAccumulatedAmortization a us-gaap:FinanceLeaseRightOfUseAssetBeforeAccumulatedAmortization ;
+    ex:value 56.5,
+        62.5 .
+
+ex:FinanceLeaseWeightedAverageDiscountRatePercent a us-gaap:FinanceLeaseWeightedAverageDiscountRatePercent ;
+    ex:value 2.7,
+        3.0 .
+
+ex:FiniteLivedIntangibleAssetsAccumulatedAmortization a us-gaap:FiniteLivedIntangibleAssetsAccumulatedAmortization ;
+    ex:value 188.0,
+        282.0,
+        284.0,
+        340.0,
+        738.0,
+        860.0,
+        1129.0,
+        1541.0,
+        2395.0,
+        2967.0 .
+
+ex:FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive a us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive ;
+    ex:value 3484.0 .
+
+ex:FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths a us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths ;
+    ex:value 994.0 .
+
+ex:FiniteLivedIntangibleAssetsAmortizationExpenseYearFive a us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseYearFive ;
+    ex:value 615.0 .
+
+ex:FiniteLivedIntangibleAssetsAmortizationExpenseYearFour a us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseYearFour ;
+    ex:value 632.0 .
+
+ex:FiniteLivedIntangibleAssetsAmortizationExpenseYearThree a us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseYearThree ;
+    ex:value 796.0 .
+
+ex:FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo a us-gaap:FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo ;
+    ex:value 918.0 .
+
+ex:FiniteLivedIntangibleAssetsGross a us-gaap:FiniteLivedIntangibleAssetsGross ;
+    ex:value 743.0,
+        749.0,
+        764.0,
+        1246.0,
+        2629.0,
+        2643.0,
+        4800.0,
+        5767.0,
+        8935.0,
+        10406.0 .
+
+ex:FiniteLivedIntangibleAssetsNet a us-gaap:FiniteLivedIntangibleAssetsNet ;
+    ex:value 403.0,
+        482.0,
+        561.0,
+        962.0,
+        1769.0,
+        1905.0,
+        3671.0,
+        4226.0,
+        6540.0,
+        7439.0 .
+
+ex:ForeignCurrencyTransactionGainLossBeforeTax a us-gaap:ForeignCurrencyTransactionGainLossBeforeTax ;
+    ex:value 65.0,
+        340.0,
+        408.0 .
+
+ex:GainLossOnContractTermination a us-gaap:GainLossOnContractTermination ;
+    ex:value 480.0 .
+
+ex:GeneralAndAdministrativeExpense a us-gaap:GeneralAndAdministrativeExpense ;
+    ex:value 11359.0,
+        11816.0,
+        11891.0 .
+
+ex:Goodwill a us-gaap:Goodwill ;
+    ex:value 2.5,
+        4.9,
+        1251.0,
+        1256.0,
+        1300.0,
+        2411.0,
+        2412.0,
+        2485.0,
+        16621.0,
+        19126.0,
+        19289.0,
+        20288.0,
+        22789.0,
+        23074.0 .
+
+ex:GoodwillAcquiredDuringPeriod a us-gaap:GoodwillAcquiredDuringPeriod ;
+    ex:value 52.0,
+        77.0,
+        191.0,
+        320.0,
+        2494.0 .
+
+ex:GoodwillTranslationAndPurchaseAccountingAdjustments a us-gaap:GoodwillTranslationAndPurchaseAccountingAdjustments ;
+    ex:value 1.0,
+        3.0,
+        4.0,
+        5.0,
+        7.0,
+        11.0,
+        28.0,
+        35.0 .
+
+ex:IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic a us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic ;
+    ex:value 8225.0,
+        32328.0,
+        61947.0 .
+
+ex:IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign a us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign ;
+    ex:value 2289.0,
+        5229.0,
+        6667.0 .
+
+ex:IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments a us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments ;
+    ex:value 5936.0,
+        37557.0,
+        68614.0 .
+
+ex:IncomeLossFromEquityMethodInvestments a us-gaap:IncomeLossFromEquityMethodInvestments ;
+    ex:value 3.0,
+        12.0,
+        101.0 .
+
+ex:IncomeTaxExpenseBenefit a us-gaap:IncomeTaxExpenseBenefit ;
+    ex:value 3.2,
+        7.1,
+        9.3,
+        228.0,
+        1522.0,
+        1656.0,
+        1660.0,
+        2313.0,
+        2671.0,
+        3147.0,
+        3217.0,
+        4511.0,
+        4938.0,
+        7120.0,
+        9265.0 .
+
+ex:IncomeTaxReconciliationForeignIncomeTaxRateDifferential a us-gaap:IncomeTaxReconciliationForeignIncomeTaxRateDifferential ;
+    ex:value 199.0,
+        370.0,
+        594.0 .
+
+ex:IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate a us-gaap:IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate ;
+    ex:value 1246.0,
+        7887.0,
+        14409.0 .
+
+ex:IncomeTaxReconciliationNondeductibleExpenseShareBasedCompensationCost a us-gaap:IncomeTaxReconciliationNondeductibleExpenseShareBasedCompensationCost ;
+    ex:value 612.0,
+        1047.0,
+        1688.0 .
+
+ex:IncomeTaxReconciliationOtherAdjustments a us-gaap:IncomeTaxReconciliationOtherAdjustments ;
+    ex:value 76.0,
+        223.0,
+        224.0 .
+
+ex:IncomeTaxReconciliationPriorYearIncomeTaxes a us-gaap:IncomeTaxReconciliationPriorYearIncomeTaxes ;
+    ex:value 600.0 .
+
+ex:IncomeTaxReconciliationStateAndLocalIncomeTaxes a us-gaap:IncomeTaxReconciliationStateAndLocalIncomeTaxes ;
+    ex:value 173.0,
+        1306.0,
+        1307.0 .
+
+ex:IncomeTaxReconciliationTaxCredits a us-gaap:IncomeTaxReconciliationTaxCredits ;
+    ex:value 1006.0,
+        2362.0,
+        2805.0 .
+
+ex:IncomeTaxesPaidNet a us-gaap:IncomeTaxesPaidNet ;
+    ex:value 6.0,
+        11.2,
+        12.3,
+        6035.0,
+        11179.0,
+        12308.0 .
+
+ex:IncreaseDecreaseInAccountsPayable a us-gaap:IncreaseDecreaseInAccountsPayable ;
+    ex:value 2945.0,
+        2972.0,
+        5473.0 .
+
+ex:IncreaseDecreaseInAccountsReceivableAndOtherOperatingAssets a us-gaap:IncreaseDecreaseInAccountsReceivableAndOtherOperatingAssets ;
+    ex:value 3249.0,
+        8348.0,
+        8622.0 .
+
+ex:IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities a us-gaap:IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities ;
+    ex:value 1558.0,
+        2428.0,
+        2904.0 .
+
+ex:IncreaseDecreaseInContractWithCustomerLiability a us-gaap:IncreaseDecreaseInContractWithCustomerLiability ;
+    ex:value 2216.0,
+        4007.0,
+        4578.0 .
+
+ex:IncreaseDecreaseInInventories a us-gaap:IncreaseDecreaseInInventories ;
+    ex:value 1449.0,
+        1884.0,
+        2592.0 .
+
+ex:IncreaseDecreaseInOtherNoncurrentAssets a us-gaap:IncreaseDecreaseInOtherNoncurrentAssets ;
+    ex:value 12265.0,
+        13275.0,
+        14483.0 .
+
+ex:IncreaseDecreaseInSelfInsuranceReserve a us-gaap:IncreaseDecreaseInSelfInsuranceReserve ;
+    ex:value 1.3 .
+
+ex:IncrementalCommonSharesAttributableToShareBasedPaymentArrangements a us-gaap:IncrementalCommonSharesAttributableToShareBasedPaymentArrangements ;
+    ex:value 188.0,
+        248.0 .
+
+ex:IndefiniteLivedIntangibleAssetsExcludingGoodwill a us-gaap:IndefiniteLivedIntangibleAssetsExcludingGoodwill ;
+    ex:value 1147.0,
+        1163.0 .
+
+ex:IntangibleAssetsGrossExcludingGoodwill a us-gaap:IntangibleAssetsGrossExcludingGoodwill ;
+    ex:value 10082.0,
+        11569.0 .
+
+ex:IntangibleAssetsNetExcludingGoodwill a us-gaap:IntangibleAssetsNetExcludingGoodwill ;
+    ex:value 7687.0,
+        8602.0 .
+
+ex:InterestExpenseNonoperating a us-gaap:InterestExpenseNonoperating ;
+    ex:value 2367.0,
+        2406.0,
+        3182.0 .
+
+ex:InventoryNet a us-gaap:InventoryNet ;
+    ex:value 33318.0,
+        34214.0 .
+
+ex:InventoryValuationReserves a us-gaap:InventoryValuationReserves ;
+    ex:value 3.0 .
+
+ex:InvestmentIncomeInterest a us-gaap:InvestmentIncomeInterest ;
+    ex:value 989.0,
+        2949.0,
+        4677.0 .
+
+ex:LeaseCost a us-gaap:LeaseCost ;
+    ex:value 17157.0,
+        18577.0,
+        18918.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDue a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDue ;
+    ex:value 90777.0,
+        95294.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive ;
+    ex:value 44443.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths ;
+    ex:value 12002.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDueYearFive a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearFive ;
+    ex:value 8534.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDueYearFour a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearFour ;
+    ex:value 9205.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDueYearThree a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearThree ;
+    ex:value 10087.0 .
+
+ex:LesseeOperatingLeaseLiabilityPaymentsDueYearTwo a us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearTwo ;
+    ex:value 11023.0 .
+
+ex:LesseeOperatingLeaseLiabilityUndiscountedExcessAmount a us-gaap:LesseeOperatingLeaseLiabilityUndiscountedExcessAmount ;
+    ex:value 15138.0,
+        15698.0 .
+
+ex:LiabilitiesAndStockholdersEquity a us-gaap:LiabilitiesAndStockholdersEquity ;
+    ex:value 527854.0,
+        624894.0 .
+
+ex:LiabilitiesCurrent a us-gaap:LiabilitiesCurrent ;
+    ex:value 164917.0,
+        179431.0 .
+
+ex:LineOfCredit a us-gaap:LineOfCredit ;
+    ex:value 682.0 .
+
+ex:LineOfCreditFacilityMaximumBorrowingCapacity a us-gaap:LineOfCreditFacilityMaximumBorrowingCapacity ;
+    ex:value 5.0,
+        15.0 .
+
+ex:LineOfCreditFacilityRemainingBorrowingCapacity a us-gaap:LineOfCreditFacilityRemainingBorrowingCapacity ;
+    ex:value 8.3 .
+
+ex:LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage a us-gaap:LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage ;
+    ex:value 0.03,
+        0.45 .
+
+ex:LitigationSettlementAmountAwardedToOtherParty a us-gaap:LitigationSettlementAmountAwardedToOtherParty ;
+    ex:value 525.0 .
+
+ex:LitigationSettlementInterest a us-gaap:LitigationSettlementInterest ;
+    ex:value 148.0 .
+
+ex:LongTermDebt a us-gaap:LongTermDebt ;
+    ex:value 58.0,
+        682.0,
+        2750.0,
+        4000.0,
+        7000.0,
+        8250.0,
+        9000.0,
+        11250.0,
+        12750.0,
+        13000.0,
+        15000.0,
+        17500.0,
+        58000.0,
+        67182.0 .
+
+ex:LongTermDebtCurrent a us-gaap:LongTermDebtCurrent ;
+    ex:value 5017.0,
+        8494.0 .
+
+ex:LongTermDebtFairValue a us-gaap:LongTermDebtFairValue ;
+    ex:value 50.2,
+        60.6 .
+
+ex:LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive a us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive ;
+    ex:value 36250.0 .
+
+ex:LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths a us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths ;
+    ex:value 5000.0 .
+
+ex:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive a us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive ;
+    ex:value 3000.0 .
+
+ex:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour a us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour ;
+    ex:value 2250.0 .
+
+ex:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree a us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree ;
+    ex:value 8750.0 .
+
+ex:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo a us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo ;
+    ex:value 2750.0 .
+
+ex:LongTermDebtNoncurrent a us-gaap:LongTermDebtNoncurrent ;
+    ex:value 52623.0,
+        58314.0 .
+
+ex:LossContingencyEstimateOfPossibleLoss a us-gaap:LossContingencyEstimateOfPossibleLoss ;
+    ex:value 1.13,
+        140.0,
+        166.0,
+        267.0,
+        746.0,
+        986.0 .
+
+ex:MarketableSecuritiesCurrent a us-gaap:MarketableSecuritiesCurrent ;
+    ex:value 13393.0,
+        22423.0 .
+
+ex:MarketableSecuritiesUnrealizedGainLoss a us-gaap:MarketableSecuritiesUnrealizedGainLoss ;
+    ex:value 1.6,
+        12.7,
+        797.0,
+        984.0,
+        1278.0,
+        13870.0 .
+
+ex:MarketingExpense a us-gaap:MarketingExpense ;
+    ex:value 42238.0,
+        43907.0,
+        44370.0 .
+
+ex:NetCashProvidedByUsedInFinancingActivities a us-gaap:NetCashProvidedByUsedInFinancingActivities ;
+    ex:value 9718.0,
+        11812.0,
+        15879.0 .
+
+ex:NetCashProvidedByUsedInInvestingActivities a us-gaap:NetCashProvidedByUsedInInvestingActivities ;
+    ex:value 37601.0,
+        49833.0,
+        94342.0 .
+
+ex:NetCashProvidedByUsedInOperatingActivities a us-gaap:NetCashProvidedByUsedInOperatingActivities ;
+    ex:value 46752.0,
+        84946.0,
+        115877.0 .
+
+ex:NetIncomeLoss a us-gaap:NetIncomeLoss ;
+    ex:value 0.6,
+        0.7,
+        0.9,
+        2.5,
+        2722.0,
+        30425.0,
+        59248.0 .
+
+ex:NoncurrentAssets a us-gaap:NoncurrentAssets ;
+    ex:value 72.9,
+        80.7,
+        87.2,
+        180.0,
+        196.0,
+        241.6 .
+
+ex:NonoperatingIncomeExpense a us-gaap:NonoperatingIncomeExpense ;
+    ex:value 21.0,
+        705.0,
+        18184.0 .
+
+ex:OperatingIncomeLoss a us-gaap:OperatingIncomeLoss ;
+    ex:value 2656.0,
+        2847.0,
+        3792.0,
+        7746.0,
+        12248.0,
+        14877.0,
+        22841.0,
+        24631.0,
+        24967.0,
+        36852.0,
+        39834.0,
+        68593.0 .
+
+ex:OperatingLeaseCost a us-gaap:OperatingLeaseCost ;
+    ex:value 8847.0,
+        10550.0,
+        11961.0 .
+
+ex:OperatingLeaseLiability a us-gaap:OperatingLeaseLiability ;
+    ex:value 75639.0,
+        79596.0 .
+
+ex:OperatingLeaseLiabilityCurrent a us-gaap:OperatingLeaseLiabilityCurrent ;
+    ex:value 8419.0,
+        10546.0 .
+
+ex:OperatingLeaseLiabilityNoncurrent a us-gaap:OperatingLeaseLiabilityNoncurrent ;
+    ex:value 67220.0,
+        69050.0 .
+
+ex:OperatingLeasePayments a us-gaap:OperatingLeasePayments ;
+    ex:value 8633.0,
+        10453.0,
+        12341.0 .
+
+ex:OperatingLeaseRightOfUseAsset a us-gaap:OperatingLeaseRightOfUseAsset ;
+    ex:value 72513.0,
+        76141.0 .
+
+ex:OperatingLeaseWeightedAverageDiscountRatePercent a us-gaap:OperatingLeaseWeightedAverageDiscountRatePercent ;
+    ex:value 3.3,
+        3.5 .
+
+ex:OperatingLossCarryforwards a us-gaap:OperatingLossCarryforwards ;
+    ex:value 9.9 .
+
+ex:OtherAssetsNoncurrent a us-gaap:OtherAssetsNoncurrent ;
+    ex:value 56024.0,
+        82147.0 .
+
+ex:OtherCommitment a us-gaap:OtherCommitment ;
+    ex:value 18629.0 .
+
+ex:OtherCommitmentDueAfterFifthYear a us-gaap:OtherCommitmentDueAfterFifthYear ;
+    ex:value 11456.0 .
+
+ex:OtherCommitmentDueInFifthYear a us-gaap:OtherCommitmentDueInFifthYear ;
+    ex:value 1025.0 .
+
+ex:OtherCommitmentDueInFourthYear a us-gaap:OtherCommitmentDueInFourthYear ;
+    ex:value 923.0 .
+
+ex:OtherCommitmentDueInNextTwelveMonths a us-gaap:OtherCommitmentDueInNextTwelveMonths ;
+    ex:value 2739.0 .
+
+ex:OtherCommitmentDueInSecondYear a us-gaap:OtherCommitmentDueInSecondYear ;
+    ex:value 1470.0 .
+
+ex:OtherCommitmentDueInThirdYear a us-gaap:OtherCommitmentDueInThirdYear ;
+    ex:value 1016.0 .
+
+ex:OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax a us-gaap:OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax ;
+    ex:value 1027.0,
+        2586.0,
+        3333.0 .
+
+ex:OtherComprehensiveIncomeForeignCurrencyTranslationGainLossArisingDuringPeriodTax a us-gaap:OtherComprehensiveIncomeForeignCurrencyTranslationGainLossArisingDuringPeriodTax ;
+    ex:value 55.0,
+        100.0,
+        226.0 .
+
+ex:OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax a us-gaap:OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax ;
+    ex:value 416.0,
+        525.0,
+        6344.0 .
+
+ex:OtherComprehensiveIncomeLossNetOfTax a us-gaap:OtherComprehensiveIncomeLossNetOfTax ;
+    ex:value 1447.0,
+        3006.0,
+        3111.0 .
+
+ex:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax a us-gaap:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax ;
+    ex:value 5.0,
+        50.0,
+        298.0 .
+
+ex:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax a us-gaap:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax ;
+    ex:value 0.0,
+        2.0,
+        15.0 .
+
+ex:OtherComprehensiveIncomeOtherNetOfTax a us-gaap:OtherComprehensiveIncomeOtherNetOfTax ;
+    ex:value 4.0,
+        5.0 .
+
+ex:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax a us-gaap:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax ;
+    ex:value 366.0,
+        823.0,
+        6339.0 .
+
+ex:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax a us-gaap:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax ;
+    ex:value 110.0,
+        159.0,
+        2086.0 .
+
+ex:OtherLiabilitiesNoncurrent a us-gaap:OtherLiabilitiesNoncurrent ;
+    ex:value 25451.0,
+        28593.0 .
+
+ex:OtherNoncashIncomeExpense a us-gaap:OtherNoncashIncomeExpense ;
+    ex:value 748.0,
+        2012.0,
+        16966.0 .
+
+ex:OtherNonoperatingIncomeExpense a us-gaap:OtherNonoperatingIncomeExpense ;
+    ex:value 938.0,
+        2250.0,
+        16806.0 .
+
+ex:OtherOperatingIncomeExpenseNet a us-gaap:OtherOperatingIncomeExpenseNet ;
+    ex:value 763.0,
+        767.0,
+        1263.0 .
+
+ex:PaymentsForRepurchaseOfCommonStock a us-gaap:PaymentsForRepurchaseOfCommonStock ;
+    ex:value 6000.0 .
+
+ex:PaymentsToAcquireBusinessesNetOfCashAcquired a us-gaap:PaymentsToAcquireBusinessesNetOfCashAcquired ;
+    ex:value 6.1,
+        780.0 .
+
+ex:PaymentsToAcquireMarketableSecurities a us-gaap:PaymentsToAcquireMarketableSecurities ;
+    ex:value 1488.0,
+        2565.0,
+        26005.0 .
+
+ex:PaymentsToAcquireProductiveAssets a us-gaap:PaymentsToAcquireProductiveAssets ;
+    ex:value 52729.0,
+        63645.0,
+        82999.0 .
+
+ex:PreferredStockParOrStatedValuePerShare a us-gaap:PreferredStockParOrStatedValuePerShare ;
+    ex:value 0.01 .
+
+ex:PreferredStockSharesAuthorized a us-gaap:PreferredStockSharesAuthorized ;
+    ex:value 500.0 .
+
+ex:PrepaidExpenseAndOtherAssetsCurrent a us-gaap:PrepaidExpenseAndOtherAssetsCurrent ;
+    ex:value 5.4,
+        6.3 .
+
+ex:ProceedsFromIssuanceOfLongTermDebt a us-gaap:ProceedsFromIssuanceOfLongTermDebt ;
+    ex:value 21166.0 .
+
+ex:ProceedsFromSaleAndMaturityOfMarketableSecurities a us-gaap:ProceedsFromSaleAndMaturityOfMarketableSecurities ;
+    ex:value 5627.0,
+        16403.0,
+        31601.0 .
+
+ex:ProceedsFromShortTermDebt a us-gaap:ProceedsFromShortTermDebt ;
+    ex:value 5142.0,
+        18129.0,
+        41553.0 .
+
+ex:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAccumulatedDepreciationAndAmortization a us-gaap:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAccumulatedDepreciationAndAmortization ;
+    ex:value 120111.0,
+        141390.0 .
+
+ex:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization a us-gaap:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization ;
+    ex:value 12968.0,
+        13323.0,
+        13487.0,
+        23347.0,
+        24357.0,
+        25618.0,
+        60324.0,
+        72701.0,
+        90076.0,
+        93632.0,
+        103041.0,
+        110683.0,
+        186715.0,
+        204177.0,
+        252665.0 .
+
+ex:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetBeforeAccumulatedDepreciationAndAmortization a us-gaap:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetBeforeAccumulatedDepreciationAndAmortization ;
+    ex:value 185039.0,
+        218893.0,
+        324288.0,
+        394055.0 .
+
+ex:PropertyPlantAndEquipmentGross a us-gaap:PropertyPlantAndEquipmentGross ;
+    ex:value 5116.0,
+        5487.0,
+        28840.0,
+        46636.0,
+        105293.0,
+        123039.0 .
+
+ex:ProvisionForDoubtfulAccounts a us-gaap:ProvisionForDoubtfulAccounts ;
+    ex:value 1.6,
+        1.9 .
+
+ex:RepaymentsOfLongTermDebt a us-gaap:RepaymentsOfLongTermDebt ;
+    ex:value 1258.0,
+        3676.0,
+        9182.0 .
+
+ex:RepaymentsOfShortTermDebt a us-gaap:RepaymentsOfShortTermDebt ;
+    ex:value 5060.0,
+        25677.0,
+        37554.0 .
+
+ex:RestrictedCashAndInvestments a us-gaap:RestrictedCashAndInvestments ;
+    ex:value 503.0,
+        3533.0 .
+
+ex:RestrictedCashCurrent a us-gaap:RestrictedCashCurrent ;
+    ex:value 247.0,
+        497.0 .
+
+ex:RestrictedCashNoncurrent a us-gaap:RestrictedCashNoncurrent ;
+    ex:value 6.0,
+        3286.0 .
+
+ex:RetainedEarningsAccumulatedDeficit a us-gaap:RetainedEarningsAccumulatedDeficit ;
+    ex:value 113618.0,
+        172866.0 .
+
+ex:RevenueFromContractWithCustomerExcludingAssessedTax a us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax ;
+    ex:value 4247.0,
+        4958.0,
+        5425.0,
+        18963.0,
+        20030.0,
+        21215.0,
+        24396.0,
+        26002.0,
+        27401.0,
+        30074.0,
+        33591.0,
+        33598.0,
+        35218.0,
+        37588.0,
+        37739.0,
+        37855.0,
+        40209.0,
+        40856.0,
+        44374.0,
+        46906.0,
+        56214.0,
+        69802.0,
+        80096.0,
+        81967.0,
+        90757.0,
+        93832.0,
+        107556.0,
+        117716.0,
+        118007.0,
+        131200.0,
+        140053.0,
+        142906.0,
+        156146.0,
+        220004.0,
+        231872.0,
+        242901.0,
+        247029.0,
+        255887.0,
+        271082.0,
+        272311.0,
+        315880.0,
+        318898.0,
+        352828.0,
+        356113.0,
+        365648.0,
+        387497.0,
+        395637.0,
+        438015.0,
+        513983.0,
+        574785.0,
+        637959.0 .
+
+ex:RevenueRemainingPerformanceObligation a us-gaap:RevenueRemainingPerformanceObligation ;
+    ex:value 177.0 .
+
+ex:RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability a us-gaap:RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability ;
+    ex:value 642.0,
+        675.0,
+        854.0 .
+
+ex:RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability a us-gaap:RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability ;
+    ex:value 14052.0,
+        15424.0,
+        18800.0 .
+
+ex:SegmentExpenditureAdditionToLongLivedAssets a us-gaap:SegmentExpenditureAdditionToLongLivedAssets ;
+    ex:value 1.0,
+        3.2,
+        8.0,
+        20.0,
+        89.0,
+        117.0,
+        238.0,
+        253.0,
+        356.0,
+        422.0,
+        525.0,
+        616.0,
+        1494.0,
+        1828.0,
+        2688.0,
+        4144.0,
+        6643.0,
+        6711.0,
+        17529.0,
+        23682.0,
+        24348.0,
+        24843.0,
+        27755.0,
+        48344.0,
+        53267.0,
+        60836.0,
+        85752.0 .
+
+ex:SelfInsuranceReserve a us-gaap:SelfInsuranceReserve ;
+    ex:value 6.3,
+        8.5 .
+
+ex:SeveranceCosts1 a us-gaap:SeveranceCosts1 ;
+    ex:value 640.0,
+        720.0 .
+
+ex:ShareBasedCompensation a us-gaap:ShareBasedCompensation ;
+    ex:value 19621.0,
+        22011.0,
+        24023.0 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod ;
+    ex:value 39.9,
+        45.0,
+        56.8 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue ;
+    ex:value 133.0,
+        135.0,
+        143.0 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod ;
+    ex:value 126.9,
+        218.1,
+        262.8 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue ;
+    ex:value 106.0,
+        142.0,
+        183.0 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber ;
+    ex:value 279.9,
+        283.1,
+        384.4,
+        405.8 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue ;
+    ex:value 125.0,
+        134.0,
+        144.0,
+        145.0 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod ;
+    ex:value 113.3,
+        139.9,
+        209.7 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue ;
+    ex:value 12.8,
+        17.6,
+        39.6 .
+
+ex:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue a us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue ;
+    ex:value 114.0,
+        132.0,
+        143.0 .
+
+ex:SharebasedCompensationArrangementBySharebasedPaymentAwardAwardVestingRightsPercentage a us-gaap:SharebasedCompensationArrangementBySharebasedPaymentAwardAwardVestingRightsPercentage ;
+    ex:value 50.0 .
+
+ex:ShortTermBorrowings a us-gaap:ShortTermBorrowings ;
+    ex:value 147.0,
+        151.0 .
+
+ex:StockIssuedDuringPeriodSharesEmployeeBenefitPlan a us-gaap:StockIssuedDuringPeriodSharesEmployeeBenefitPlan ;
+    ex:value 113.0,
+        141.0,
+        210.0 .
+
+ex:StockIssuedDuringPeriodValueEmployeeBenefitPlan a us-gaap:StockIssuedDuringPeriodValueEmployeeBenefitPlan ;
+    ex:value 1.0,
+        2.0,
+        19629.0,
+        19631.0,
+        21839.0,
+        21841.0,
+        23959.0,
+        23960.0 .
+
+ex:StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1 a us-gaap:StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1 ;
+    ex:value 6.1 .
+
+ex:StockRepurchasedDuringPeriodShares a us-gaap:StockRepurchasedDuringPeriodShares ;
+    ex:value 46.2 .
+
+ex:StockRepurchasedDuringPeriodValue a us-gaap:StockRepurchasedDuringPeriodValue ;
+    ex:value 6.0 .
+
+ex:StockholdersEquity a us-gaap:StockholdersEquity ;
+    ex:value 34.0,
+        106.0,
+        108.0,
+        109.0,
+        111.0,
+        1376.0,
+        1837.0,
+        3040.0,
+        4487.0,
+        7837.0,
+        55437.0,
+        75066.0,
+        83193.0,
+        85915.0,
+        99025.0,
+        113618.0,
+        120864.0,
+        138245.0,
+        146043.0,
+        172866.0,
+        201875.0,
+        285970.0 .
+
+ex:StockholdersEquityNoteStockSplitConversionRatio1 a us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 ;
+    ex:value 20.0 .
+
+ex:TreasuryStockCommonValue a us-gaap:TreasuryStockCommonValue ;
+    ex:value 7837.0 .
+
+ex:TreasuryStockSharesAcquired a us-gaap:TreasuryStockSharesAcquired ;
+    ex:value 46.0 .
+
+ex:TreasuryStockValueAcquiredCostMethod a us-gaap:TreasuryStockValueAcquiredCostMethod ;
+    ex:value 6000.0 .
+
+ex:UnrecognizedTaxBenefits a us-gaap:UnrecognizedTaxBenefits ;
+    ex:value 6.5,
+        3242.0,
+        4002.0,
+        5228.0,
+        6485.0 .
+
+ex:UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions a us-gaap:UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions ;
+    ex:value 38.0,
+        129.0,
+        172.0 .
+
+ex:UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities a us-gaap:UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities ;
+    ex:value 9.0,
+        20.0,
+        106.0 .
+
+ex:UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued a us-gaap:UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued ;
+    ex:value 194.0,
+        316.0 .
+
+ex:UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense a us-gaap:UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense ;
+    ex:value 7.0,
+        91.0,
+        121.0 .
+
+ex:UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions a us-gaap:UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions ;
+    ex:value 706.0,
+        1009.0,
+        1392.0 .
+
+ex:UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions a us-gaap:UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions ;
+    ex:value 154.0,
+        274.0,
+        440.0 .
+
+ex:UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations a us-gaap:UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations ;
+    ex:value 28.0,
+        79.0,
+        151.0 .
+
+ex:UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate a us-gaap:UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate ;
+    ex:value 4.4 .
+
+ex:UnrecordedUnconditionalPurchaseObligationBalanceOnFifthAnniversary a us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnFifthAnniversary ;
+    ex:value 3868.0,
+        4286.0 .
+
+ex:UnrecordedUnconditionalPurchaseObligationBalanceOnFirstAnniversary a us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnFirstAnniversary ;
+    ex:value 2695.0,
+        8536.0 .
+
+ex:UnrecordedUnconditionalPurchaseObligationBalanceOnFourthAnniversary a us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnFourthAnniversary ;
+    ex:value 4253.0,
+        4321.0 .
+
+ex:UnrecordedUnconditionalPurchaseObligationBalanceOnSecondAnniversary a us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnSecondAnniversary ;
+    ex:value 3691.0,
+        7941.0 .
+
+ex:UnrecordedUnconditionalPurchaseObligationBalanceOnThirdAnniversary a us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnThirdAnniversary ;
+    ex:value 5011.0,
+        5413.0 .
+
+ex:UnrecordedUnconditionalPurchaseObligationBalanceSheetAmount a us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceSheetAmount ;
+    ex:value 50375.0,
+        61627.0 .
+
+ex:UnrecordedUnconditionalPurchaseObligationDueAfterFiveYears a us-gaap:UnrecordedUnconditionalPurchaseObligationDueAfterFiveYears ;
+    ex:value 20296.0,
+        41691.0 .
+
+ex:ValuationAllowancesAndReservesChargedToCostAndExpense a us-gaap:ValuationAllowancesAndReservesChargedToCostAndExpense ;
+    ex:value 5.2,
+        5.5 .
+
+ex:ValuationAllowancesAndReservesDeductions a us-gaap:ValuationAllowancesAndReservesDeductions ;
+    ex:value 5.1,
+        5.2,
+        5.5 .
+
+ex:VariableLeaseCost a us-gaap:VariableLeaseCost ;
+    ex:value 1852.0,
+        2165.0,
+        2465.0 .
+
+ex:WeightedAverageNumberOfDilutedSharesOutstanding a us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding ;
+    ex:value 10189.0,
+        10492.0,
+        10721.0 .
+
+ex:WeightedAverageNumberOfSharesOutstandingBasic a us-gaap:WeightedAverageNumberOfSharesOutstandingBasic ;
+    ex:value 10189.0,
+        10304.0,
+        10473.0 .
+
