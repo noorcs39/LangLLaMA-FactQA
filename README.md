@@ -5,7 +5,7 @@
 ---
 
 ## 📽 Demo Video
-[![Watch the Demo](https://www.loom.com/share/1700dc667c704e808e7f5696138eb3ce)
+[![Watch the Demo](https://www.loom.com/share/1700dc667c704e808e7f5696138eb3ce?sid=4f6da0b1-8846-4589-a2bd-611ab6b719e5)
 
 ---
 
