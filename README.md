@@ -7,7 +7,7 @@
 ---
 
 ## 📽 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch the Demo](https://www.loom.com/share/1700dc667c704e808e7f5696138eb3ce)
 
 ---
 
