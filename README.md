@@ -38,7 +38,7 @@ This project allows users to query financial data from Amazon's 10-K filing (XBR
 
 ## 📁 Folder Structure
 ```
-📂 Turing/
+📂 LangLLaMA-FactQA/
 ├── amzn-2024.ttl               # Converted RDF Turtle file
 ├── xbrl_to_rdf.py              # Script to convert XBRL to RDF
 ├── sparql_query.py             # Basic SPARQL test script
